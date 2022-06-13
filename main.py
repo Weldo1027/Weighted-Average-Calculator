@@ -1,5 +1,4 @@
 n = 0
-koniec = 0
 s = 0
 o = 0
 exit = 0
